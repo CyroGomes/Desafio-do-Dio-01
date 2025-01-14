@@ -2,7 +2,7 @@
 function classificarHeroi() {
     // Declarando as variáveis
     let nome = " "  
-    let xp = 900001
+    let xp = 0
     let nivel = " "
 
     // Estrutura de decisão para classificar o nível do herói
