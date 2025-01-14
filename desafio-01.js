@@ -1,8 +1,9 @@
 // Função para classificar o nível do herói
 function classificarHeroi() {
     // Declarando as variáveis
-    let nome = "LordCode"  
+    let nome = " "  
     let xp = 900001
+    let nivel = " "
 
     // Estrutura de decisão para classificar o nível do herói
     if (xp < 1000) {
